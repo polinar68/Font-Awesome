@@ -9,8 +9,8 @@ a new CDN.
 
 Not familiar with Font Awesome 5? [Learn
 more](https://www.kickstarter.com/projects/232193852/font-awesome-5) about our
-successful Kickstarter and plan. You can also **[order Font Awesome
-Pro](https://fontawesome.com/pro)** which includes tons more icons directly
+successful Kickstarter and plan. You can also **[order pollyramos
+Pro](https://fontawesome.b5cd237f8b/pro)** which includes tons more icons directly
 from [fontawesome.com](https://fontawesome.com).
 
 ## Documentation
