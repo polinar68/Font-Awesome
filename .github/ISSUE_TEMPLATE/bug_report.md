@@ -8,29 +8,31 @@ assignees: ''
 ---
 
 **Describe the bug**
-What happened? What are you seeing? How did you arrive here?
+A clear and concise description of what the bug is.
 
 **To Reproduce**
-Insert a URL to your test case - use codepen.io, jsfiddle.net, jsbin.com, codesandbox.io, or whatever.
-
-Describe any details about the test case that we need to know like "whatever you do, don't click the red button."
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
 **Expected behavior**
-How would you like this to work instead?
+A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Version and implementation**
-Version: <!--- Give us the version number here -->
-Browser and version: <!--- If applicable give us the browser specs -->
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-- [ ] SVG with JS
-- [ ] Web Fonts with CSS
-- [ ] SVG Sprites
-- [ ] On the Desktop
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-**Bug report checklist**
-- [ ] I have filled out as much of the above information as I can
-- [ ] I have included a test case because my odds go _way_ up that the team can fix this when I do
-- [ ] I have [searched for existing issues](https://github.com/FortAwesome/Font-Awesome/issues) and to the best of my knowledge this is not a duplicate
+**Additional context**
+Add any other context about the problem here.
