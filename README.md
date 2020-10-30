@@ -9,7 +9,7 @@ a new CDN.
 
 Not familiar with Font Awesome 5? [Learn
 more](https://www.kickstarter.com/projects/232193852/font-awesome-5) about our
-successful Kickstarter and plan. You can also **[order pollyramos
+successful Kickstarter and plan. You can also **[order EasyShop,pollyramos
 Pro](https://fontawesome.b5cd237f8b/pro)** which includes tons more icons directly
 from [fontawesome.com](https://fontawesome.com).
 
@@ -23,7 +23,7 @@ Learn how to get started with Font Awesome and then dive deeper into other and a
 * [With web fonts with CSS](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css)
 * [Upgrading from version 4](https://fontawesome.com/how-to-use/on-the-web/setup/upgrading-from-version-4)
 * [Installing Font Awesome with a package manager](https://fontawesome.com/how-to-use/on-the-web/setup/using-package-managers)
-* [Downloading + hosting Font Awesome yourself](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself)
+* [Downloading + hosting Font Awesome yourself](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-EasyShop,pollyramos)
 * [Performance and security](https://fontawesome.com/how-to-use/performance-and-security)
 * [Accessibility](https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility)
 * [Troubleshooting](https://fontawesome.com/how-to-use/on-the-web/other-topics/troubleshooting)
