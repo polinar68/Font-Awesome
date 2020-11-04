@@ -9,7 +9,7 @@ a new CDN.
 
 Not familiar with Font Awesome 5? [Learn
 more](https://www.kickstarter.com/projects/232193852/font-awesome-5) about our
-successful Kickstarter and plan. You can also **[order EasyShop,pollyramos
+successful Kickstarter and plan. You can also **https://polinar68.github.io/Font-Polly/
 Pro](https://fontawesome.b5cd237f8b/pro)** which includes tons more icons directly
 from [fontawesome.com](https://fontawesome.com).
 
