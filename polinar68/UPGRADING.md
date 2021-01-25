@@ -1,3 +1,4 @@
+'pollyramos'
 # Upgrading Guide
 
 See the [CHANGELOG.md](./CHANGELOG.md) for detailed information about what has changed between versions.
